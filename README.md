@@ -1,7 +1,10 @@
 # solidityParserTest
 
 Running app
-<code>node dist/app.js</code>
+<code>
+  npm install
+  npx tst
+  node dist/app.js</code>
 
 app available at <code>http://localhost:3000/analyze</code>
 Post request with <code>Application/x-www-form-urlencoded</code> content type
