@@ -10,7 +10,6 @@ with parameter code that contains Solidity code
 as return we receive
 <pre>
 <code>
-  
   {
     "imports": [
         "VarysContractBase.sol",
@@ -19,6 +18,5 @@ as return we receive
     "contracts": [
         "VarysContract",
     ],
-}
-  </code>
+}</code>
 </pre>
