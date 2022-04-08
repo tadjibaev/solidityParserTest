@@ -1,10 +1,10 @@
 # solidityParserTest
 
 Running app
-node dist/app.js
+<code>node dist/app.js</code>
 
-app available at localhost:3000/analyze
-Post request with Application/x-www-form-urlencoded content type
+app available at <code>http://localhost:3000/analyze</code>
+Post request with <code>Application/x-www-form-urlencoded</code> content type
 with parameter code that contains Solidity code
 
 as return we receive
