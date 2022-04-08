@@ -8,7 +8,9 @@ Post request with Application/x-www-form-urlencoded content type
 with parameter code that contains Solidity code
 
 as return we receive
+<pre>
 <code>
+  
   {
     "imports": [
         "VarysContractBase.sol",
@@ -19,3 +21,4 @@ as return we receive
     ],
 }
   </code>
+</pre>
